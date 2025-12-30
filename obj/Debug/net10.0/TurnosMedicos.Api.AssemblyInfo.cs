@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TurnosMedicos.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8979fe961128b28989188da69e15747c23eef82")]
 [assembly: System.Reflection.AssemblyProductAttribute("TurnosMedicos.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TurnosMedicos.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
