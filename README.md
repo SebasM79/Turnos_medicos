@@ -6,7 +6,7 @@ El sistema permite administrar unidades de tratamiento, especialidades, médicos
 
 ---
 
-## 🧩 Funcionalidades principales
+## Funcionalidades principales
 
 - Gestión de Unidades de Tratamiento (Cardiología, Clínica Médica, etc.)
 - Administración de Especialidades por unidad
@@ -18,7 +18,7 @@ El sistema permite administrar unidades de tratamiento, especialidades, médicos
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **.NET 8**
 - **ASP.NET Core Web API**
@@ -32,7 +32,7 @@ El sistema permite administrar unidades de tratamiento, especialidades, médicos
 
 ---
 
-## 🧱 Arquitectura y decisiones técnicas
+## Arquitectura y decisiones técnicas
 
 - Uso de **Entity Framework Core** como ORM principal
 - Configuración de relaciones mediante **Fluent API**
@@ -45,7 +45,7 @@ El sistema permite administrar unidades de tratamiento, especialidades, médicos
 
 ---
 
-## 🗄️ Modelo de datos (resumen)
+## Modelo de datos (resumen)
 
 - UnidadTratamiento → Especialidades (1 a N)
 - UnidadTratamiento → Médicos (1 a N)
@@ -54,11 +54,11 @@ El sistema permite administrar unidades de tratamiento, especialidades, médicos
 
 ---
 
-## ▶️ Cómo ejecutar el proyecto localmente
+## Cómo ejecutar el proyecto localmente
 
 ### Requisitos
 
-- .NET SDK 8
+- .NET SDK 10
 - SQL Server
 - Visual Studio Code
 
